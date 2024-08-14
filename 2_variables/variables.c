@@ -1,6 +1,6 @@
 #include <stdio.h>
-#include <stdbool.h>
-#define d 10 //definiendo variable constante
+#include <stdbool.h> // libreria para el dato bool
+#define d 10 //definiendo variable constante, tambien se puede con la palabra const
 
 // definiendo variable de tipado estatico
 int a = 1;

@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdbool.h>
-#include <complex.h>
+#include <complex.h> // libreria para el dato complejo
 
 int main(){
 
